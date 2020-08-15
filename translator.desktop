@@ -1,0 +1,7 @@
+[Desktop Entry]
+
+Name=Translator
+Type=Application
+Path=/home/than/projects/python/desktop-app/google-translate
+Icon=/home/than/projects/python/desktop-app/google-translate/assets/icon.png
+Exec=python3 /home/than/projects/python/desktop-app/google-translate/main.py
